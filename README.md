@@ -11,5 +11,7 @@ How to use:
 - The multi material contains v-ray materials with instanced bump and self-illum. 
 - Apply the material and done! 
 
+<a href="https://www.youtube.com/watch?v=z5vCeb2ff4o" rel="nofollow">Video link</a>
+
 
 The script is under development it may contains bugs!
