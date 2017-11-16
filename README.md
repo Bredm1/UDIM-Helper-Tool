@@ -1,5 +1,7 @@
 It’s a Maxscript tool for working with multi tile textures with 3ds Max 2016 and below. 
 
+![ScreenShot](https://github.com/Bredm1/UDIM-Helper-Tool/blob/master/Script_Window_Screenshot_Painted.png)
+
 New version v.02!
 Updated: 2017.11.16
 
